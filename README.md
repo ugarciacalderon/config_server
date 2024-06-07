@@ -23,6 +23,7 @@ Available endpoints
 
 Official Documentation
 
-[Spring Framework Config](https://docs.spring.io/spring-cloud-config/docs/current/reference/html/)
+[Spring Cloud Config](https://docs.spring.io/spring-cloud-config/docs/current/reference/html/)
+[Spring Cloud Config Server](https://docs.spring.io/spring-cloud-config/reference/server.html)
 
 ![img.png](img.png)
